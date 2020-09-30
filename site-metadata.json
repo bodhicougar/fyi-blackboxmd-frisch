@@ -1,14 +1,22 @@
 {
   "title": "BlackBoxMediaDesign",
-  "description": "Startup Angel & Web Strategist",
+  "description": "Google Marketing Agentur & Web Strategist",
   "layout_style": "overflow",
   "palette": "green",
   "header": {
     "social_links": [
       {
         "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/blackboxmd/?locale=de_DE",
+        "style": "icon",
+        "icon_class": "fa-linkedin",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Instagram",
+        "url": "https://twitter.com/BBMediaDesign",
         "style": "icon",
         "icon_class": "fa-twitter",
         "new_window": true
@@ -16,33 +24,25 @@
       {
         "type": "action",
         "label": "Instagram",
-        "url": "https://www.instagram.com/",
+        "url": "https://www.instagram.com/blackboxmd/",
         "style": "icon",
         "icon_class": "fa-instagram",
         "new_window": true
       },
       {
         "type": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
+        "label": "Youtube",
+        "url": "https://www.youtube.com/channel/UCAGGws4s4OScQNlOCx2u0vQ",
+        "style": "icon",
+        "icon_class": "fa-youtube",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Github",
+        "url": "https://github.com/bodhicougar",
         "style": "icon",
         "icon_class": "fa-github",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "fa-dev",
         "new_window": true
       }
     ],
@@ -88,7 +88,7 @@
   },
   "footer": {
     "type": "footer",
-    "content": "&copy; All rights reserved.",
+    "content": "&copy;BlackBoxMediaDesign 2020 OÜ. All rights reserved.",
     "links": [
       {
         "type": "action",
